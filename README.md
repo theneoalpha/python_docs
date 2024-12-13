@@ -29,7 +29,10 @@ Python Modules and PIP
            windows :  python main.py
             mac    : python3 main.py
 
-    -         
+    - Day 1 : Basics of the python
+    - Day 2 : Basic arithmatic operation 
+
+
 
 
 
